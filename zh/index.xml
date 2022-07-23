@@ -16,13 +16,23 @@
     </item>
     
     <item>
+      <title>Catalog</title>
+      <link>https://rh-aquatic.com/zh/catalog/catalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rh-aquatic.com/zh/catalog/catalog/</guid>
+      <description> 产品名称 产品图片 挑肠生虾仁 挑肠生虾仁 </description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://rh-aquatic.com/zh/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rh-aquatic.com/zh/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-你的名字 电邮地址 需要电子邮件地址。 信息 </description>
+      <description>微信:stcjl717
+邮件:contact@rh-aquatic.com
+或者填写以下表格留下您的联系方式。我们将会尽快联系您。 你的名字 电邮地址 需要电子邮件地址。 信息 </description>
     </item>
     
   </channel>

@@ -27,6 +27,30 @@
                 href="https://rh-aquatic.com/zh/about/"
                 />
   </url><url>
+    <loc>https://rh-aquatic.com/zh/catalog/catalog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://rh-aquatic.com/ja/catalog/catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://rh-aquatic.com/zh/catalog/catalog/"
+                />
+  </url><url>
+    <loc>https://rh-aquatic.com/zh/catalog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://rh-aquatic.com/ja/catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://rh-aquatic.com/zh/catalog/"
+                />
+  </url><url>
     <loc>https://rh-aquatic.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
